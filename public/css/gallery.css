@@ -1,0 +1,40 @@
+
+.navbar-inverse {
+    background: #084f5c;
+    color: white;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+.jumbotron {
+    color: #084f5c;
+}
+.img-thumbnail {
+    width: 350px;
+    height: 350px;
+    padding: 20px;
+}
+.card-img-top {
+    max-height: 150px;
+  }
+  .float-left .price {
+    font-weight: bold;
+    font-size: 16px;
+  }
+#about {
+    color: #084f5c!important;
+}
+#menu {
+    color: #084f5c!important;
+}
+#contact {
+    color: #084f5c!important;
+}
+
+
+
+
